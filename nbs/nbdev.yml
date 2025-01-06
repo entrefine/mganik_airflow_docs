@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mganik_airflow_docs"
+  site-url: "https://entrefine.github.io/mganik_airflow_docs"
+  description: "Documentation for airflow instance mGanik Group"
+  repo-branch: main
+  repo-url: "https://github.com/entrefine/mganik_airflow_docs"
