@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "dbt_docs.html",
+    "href": "dbt_docs.html",
+    "title": "dbt Docs",
+    "section": "",
+    "text": "Download dbt static docs\nTo download full dbt static docs, you can download from here\n\n\nPreview dbt docs",
+    "crumbs": [
+      "dbt Docs"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "This page is the documentation for airflow and data infrastructure instance of mGanik Group",
+    "crumbs": [
+      "Getting Started"
+    ]
+  }
+]
